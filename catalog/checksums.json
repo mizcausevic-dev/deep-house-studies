@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3678,
+      "sha256": "4aaee18c7b0a8fd682ef3a01e1a86ca7c6174e38758c891fd7a551209fa5c401"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -63,8 +73,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1564,
-      "sha256": "8e0aa9b1f44e723e6c923f18de4145baca2e4fc9d97f0f44efc97279bcbb3de6"
+      "bytes": 1786,
+      "sha256": "8a2f30ec09e2efc79f0651b226cb345b998b99b7ae6bd32be896b69fd6253695"
     },
     {
       "path": "catalog/release-spec.json",
@@ -103,8 +113,8 @@
     },
     {
       "path": "downloads/deep-house-studies-midi.zip",
-      "bytes": 23957,
-      "sha256": "9fbbc5ae2017c585030b5ca163647d1330a43cb573e151abd340d13337125a08"
+      "bytes": 24972,
+      "sha256": "0a456e7a1ba05f48eef8685cec90cba25a79205df88fe020739857a29a8d8e58"
     },
     {
       "path": "film/poster.jpg",
@@ -278,13 +288,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1050,
-      "sha256": "8af2d377617fb28f1b6c10303145917fc2636df7370f7bbf80cee9a13890bd04"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3517,
-      "sha256": "b7928c75dcbeac5dfe50475daff643a6a8fc1daf3e788bb351be528d6bc796a7"
+      "bytes": 1133,
+      "sha256": "f76d73367445af337f6d4d6ed8841c27cbe6f3c630ca25c6172363fb4454fa73"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -313,13 +318,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 59060,
-      "sha256": "861349c82200b232d31e67255e5c3f2df3a6d07d478168712163224db1bb785b"
+      "bytes": 59237,
+      "sha256": "4f287a942b42d24d0fdad95868f2b08cf1ef059a4f9c63d5882a461c5dc6efe7"
     },
     {
       "path": "tools/polish_release.py",
