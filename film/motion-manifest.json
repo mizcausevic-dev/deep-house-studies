@@ -1,0 +1,26 @@
+{
+  "title": "Deep House",
+  "study": "dh01",
+  "bpm": 122,
+  "source_audio": "preview/deep-house-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "31492a918ba8a6edc961cf9de895ae903fd448ef14f7ef8d78186f68a3319125",
+  "source_midi": "midi/dh01-inside-light/dh01-inside-light-combined.mid",
+  "source_midi_sha256": "9ed90727e74d068768fed39af5f848d51764198a3e183c047400bd5cc6d124fd",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "11cd8957d5bda27a4a075d4bcfc8aaf0f532f1989cca1407de1e977bbc0fe6f7",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "2d0248147d948a6a8fe435ff3b34523c16e54635d99e8bad73878ff98f4ea7bb",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "d4476c4f2f0dae58c139edd6a2e0a7f99130603548d06ea46360d4cee3c506c5",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
