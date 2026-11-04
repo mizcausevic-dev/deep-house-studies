@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/deep-house-studies-simple-synth-preview.mp3",
+  "preview_sha256": "31492a918ba8a6edc961cf9de895ae903fd448ef14f7ef8d78186f68a3319125",
+  "source_midi_path": "midi/dh01-inside-light/dh01-inside-light-combined.mid",
+  "source_midi_sha256": "9ed90727e74d068768fed39af5f848d51764198a3e183c047400bd5cc6d124fd",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "dh01",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.124109,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

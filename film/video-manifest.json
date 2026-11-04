@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/deep-house-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "31492a918ba8a6edc961cf9de895ae903fd448ef14f7ef8d78186f68a3319125",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "bce1f97b5cbff78eb5d4a7a2459890d5066c4399db01718aa548d522490702e3",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

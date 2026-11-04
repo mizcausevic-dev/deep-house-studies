@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+dh01,Inside Light,pack-local equal-tempered pitch collection,C,122,4/4,480,32,61440,midi/dh01-inside-light/dh01-inside-light-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dh02,Warm Concrete,pack-local equal-tempered pitch collection,D#,122,4/4,480,32,61440,midi/dh02-warm-concrete/dh02-warm-concrete-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dh03,Small Hours,pack-local equal-tempered pitch collection,F#,122,4/4,480,32,61440,midi/dh03-small-hours/dh03-small-hours-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dh04,Room to Move,pack-local equal-tempered pitch collection,C#,122,4/4,480,32,61440,midi/dh04-room-to-move/dh04-room-to-move-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
