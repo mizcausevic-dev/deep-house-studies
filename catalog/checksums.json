@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 780,
-      "sha256": "b021c625a7df0bbf5fad1a61f2c08b000fb547acba0fd3fd6dee6e81cf43bae5"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3678,
-      "sha256": "4aaee18c7b0a8fd682ef3a01e1a86ca7c6174e38758c891fd7a551209fa5c401"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -118,8 +103,8 @@
     },
     {
       "path": "downloads/deep-house-studies-midi.zip",
-      "bytes": 24972,
-      "sha256": "0a456e7a1ba05f48eef8685cec90cba25a79205df88fe020739857a29a8d8e58"
+      "bytes": 25959,
+      "sha256": "fd12a808167e668d0e3610c1f1e7119fc759cb3a48292fe5dbb3adf6bad4891b"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -140,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 30215,
       "sha256": "f3a80e45882a59622d6084f6d135cc802713b8b3302359e2d8109fd8bb63bb8f"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1112744,
-      "sha256": "d4476c4f2f0dae58c139edd6a2e0a7f99130603548d06ea46360d4cee3c506c5"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -173,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9239,
-      "sha256": "3f2c7bf9ec484d9a989f3f5cacfd3c2b7f9789ce29b1b752415c9be536723bfa"
+      "bytes": 9429,
+      "sha256": "c7f8e22db2be488c03a57269649b9197f32026d2cc82e80d32021c81919f2771"
     },
     {
       "path": "midi/dh01-inside-light/chord_pulse.mid",
@@ -317,6 +297,16 @@
       "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 780,
+      "sha256": "b021c625a7df0bbf5fad1a61f2c08b000fb547acba0fd3fd6dee6e81cf43bae5"
+    },
+    {
       "path": "preview/deep-house-studies-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "31492a918ba8a6edc961cf9de895ae903fd448ef14f7ef8d78186f68a3319125"
@@ -325,6 +315,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1133,
       "sha256": "f76d73367445af337f6d4d6ed8841c27cbe6f3c630ca25c6172363fb4454fa73"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3793,
+      "sha256": "7a080438f134addb333e27f9e4b4c4f62fab91611d29163abfd01ace625e4771"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
